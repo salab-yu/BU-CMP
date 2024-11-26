@@ -1,6 +1,6 @@
 BU-CMP: README
 
-This code, Bayesian Updating, was written by Dr. Md Samdani Azad under the guidance of Professor Tong-Seok Han. Their expertise and support were key in shaping this work, which applies 
+This code, Bayesian Updating for Cementitious Material Properties (BU-CMP), was written by Dr. Md Samdani Azad under the guidance of Professor Tong-Seok Han. Their expertise and support were key in shaping this work, which applies 
 Bayesian updating to mechanical property evaluation of cement paste.
 
 
