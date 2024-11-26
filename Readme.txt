@@ -7,7 +7,7 @@ Bayesian updating to mechanical property evaluation of cement paste.
 Instruction Manual for Running the Bayesian updating Script:
 
 Overview
-- This script performs Bayesian analysis to calculate the mechanical propety of cement paste and the concept is basd on conjugate prior.
+- This script performs Bayesian analysis to calculate the mechanical propety of cement paste and the concept is based on conjugate prior.
 
 - A CSV file is prepared to give the inputs: prior dataset and observed dataset.
 - High-quality figures of prior and posterior distributions, customizable in terms of font, titles, and axis range.
