@@ -47,5 +47,5 @@ How to use input file
    ,18.69
 
 Running the Script
-- type the following in Anaconda prompt or command promot: cd path\to\your\directory
+- type the following in Anaconda prompt or command prompt in MS Windows: cd path\to\your\directory
 - then type as follows to run the code: python Bayesian_updating.py
