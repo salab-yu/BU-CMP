@@ -31,8 +31,8 @@ Setup Instructions
 - Install Dependencies: Open the Anaconda Prompt and install necessary libraries.
 
 How to use input file
-- The input file is in csv format.
-- Each row has two data seperated by comma. 
+- The input file is in the csv format.
+- Each row has two data seperated by a comma. 
 - The first data is prior data and second data is observed data.
 - If there is no first data, keep blank and put comma and put second data.
 - Follow the example below.
