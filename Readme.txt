@@ -14,7 +14,6 @@ Overview
 - Figures can be saved in multiple formats, including PDF, SVG, PNG, JPG, and TIFF.
 
 System Requirements
-- Python Version: Ensure Python --------.
 - Anaconda Environment: Install and use the script within an Anaconda environment for optimal compatibility.
 - Required Libraries:
   numpy
