@@ -41,7 +41,7 @@ def bayesian_simulation(m0, n0, v0, s0, Y_topbar, n, v, s):
     mn = (Y_topbar * n + n0 * m0) / (n + n0)
     nn = n0 + n
     vn = v0 + n
-    s2_n = 1 / vn * (s**2 * (n - 1) + s0**2 * v0 + n0 * n * (Y_topbar - m0)**2)
+    s2_n = 1 / vn * (s**2 * (n - 1) + s0**2 * v0 + n0 * n/nn * (Y_topbar - m0)**2)
     sn = np.sqrt(s2_n)
 
     # Monte Carlo sample size
